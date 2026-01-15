@@ -1,0 +1,15 @@
+# audio / big files
+*.wav
+*.zip
+data/audio/
+wav_files/
+
+# model files
+*.pth
+*.pt
+*.npy
+
+# cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
